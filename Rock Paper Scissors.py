@@ -9,12 +9,12 @@ print("""
 
 Player = 0
 Computer = 0
-
-print("Player Score=", Player)
-print("Computer Score=", Computer)
 lets_begin = input("Are you ready to begin?")
 print(lets_begin, "\nOkay, lets begin")
+print("\nPlayer Score=", Player)
+print("\nComputer Score=", Computer)
 
 
 
 input("\n\nPress the enter key to exit.")
+
