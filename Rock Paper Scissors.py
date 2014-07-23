@@ -79,7 +79,7 @@ else:
     print("It's a tie")
 
 print("Thank You for playing, hope you enojoyed it")
-
+print("Written By Sean Boyd")
     
 
 input("\n\nPress the enter key to exit.")
